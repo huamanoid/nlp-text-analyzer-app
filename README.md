@@ -21,3 +21,6 @@ A Simple NLP app for text analysis with drag and drop for files.
 
 
 
+### Run Online
+
+https://share.streamlit.io/huamanoid/nlp-text-analyzer-app/main/app.py
