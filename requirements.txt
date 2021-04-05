@@ -8,4 +8,4 @@ spacy==3.0.5
 pdfplumber==0.5.27
 neattext==0.1.0
 PyPDF2==1.26.0
-spacy en_core_web_sm
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz
